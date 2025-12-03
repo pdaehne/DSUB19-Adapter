@@ -21,7 +21,7 @@ IDC box header, with pin 20 unused. It should be compatible with the so-called
 
 This DSUB-19 Adapter is designed to be used in combination with my
 [Atari ST Floppy Adapter for the Atari ST external floppy port](https://github.com/pdaehne/Atari-ST-Floppy-Adapter),
-they fit nicely next to each other. I also tried not to hide other connectors,
+they fit nicely next to each other. I also tried not to block other connectors,
 but I only have an Atari 1040 STF to check that, so your mileage might vary.
 Please check the situation on your Atari before ordering the PCBs!
 
@@ -77,7 +77,7 @@ Solder the box header to the PCB. Mind the orientation, the notch of the header
 must face in the direction marked on the silk screen (upwards in the image
 below). I recommend to put one of the IDC connectors into the box header,
 because it happens easily that the plastic of the socket melts and the pins
-start to move when you apply to much heat while soldering, and this might ruin
+start to move when you apply too much heat while soldering, and this might ruin
 the whole adapter!
 
 [![Soldering the Box Header](images/Solder_Box_Header.preview.jpg)](images/Solder_Box_Header.jpg?raw=1)
