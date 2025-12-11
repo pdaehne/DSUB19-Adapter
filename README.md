@@ -27,6 +27,11 @@ Please check the situation on your Atari before ordering the PCBs!
 
 [![Atari ST Floppy Adapter](images/Floppy_Adapter.preview.jpg)](images/Floppy_Adapter.jpg?raw=1)
 
+When you are still looking for a way to provide power to your external ACSI2STM
+or UltraSatan harddrive emulators, you might be interested in my
+[Atari ST 5V Cartridge](https://github.com/pdaehne/Atari-ST-5V-Cartridge), which
+utilizes the cartridge port of the Atari ST to provide 5V to external devices.
+
 ## Ordering the PCB
 
 The subdirectory "gerber-files" contains a Zip file you can use to order the PCB
